@@ -1,2 +1,8 @@
-# Stock-Price-Predection
+# Stock-Price-Predection with Machine Learning
 Long-Term and Short-Term Stock Price Prediction: Analyzing AMD, Electronic Arts, and Apple from 2001 to 2023 with Linear Regression, Decision Trees, and LSTM Networks. Uncover key drivers of stock movements and make data-driven investment decisions with our cutting-edge predictive analysis.
+
+Introduction:
+The project aims to develop predictive models for stock price movements in companies like AMD, Electronic Arts, and Apple, using machine learning techniques. It addresses the challenge of accurately predicting stock prices in dynamic financial markets. Various models such as Linear Regression, ​Decision Trees, and LSTM networks are employed to capture patterns in financial time series data. The selection of companies from technology and entertainment sectors offers a comprehensive analysis, while inclusion of multiple time frames allows for nuanced performance evaluation.
+
+Project Objectives:
+The primary objectives revolve around predicting stock prices across different time frames and assessing model performance. This includes comparing the accuracy of Linear Regression, Decision Trees, and LSTM models, evaluating their suitability for short-term and long-term predictions. Additionally, feature importance analysis, particularly for Decision Trees, is conducted to identify significant stock features contributing to prediction accuracy. The project seeks to determine the overall best-performing model and time frame for each company and across all companies. Moreover, variability analysis is performed to understand the robustness and consistency of each model under varying market conditions.
